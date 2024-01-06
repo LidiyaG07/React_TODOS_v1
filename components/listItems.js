@@ -9,7 +9,7 @@ export default function ListItems({ el, deleteHandler }) {
   );
 }
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create ({
   text: {
     fontSize: 18,
     textAlign: 'center',
